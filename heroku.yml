@@ -1,6 +1,6 @@
 build: 
   docker: 
-      worker: /CyberQueen/Dockerfile
+      worker: /blog/Dockerfile
 run:
    worker: npm start
  
