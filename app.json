@@ -49,7 +49,7 @@
 		"ALIVE_LOGO": {
 			"description": "එය ඔබගේ ALIVE LOGO වෙනස් කරයි...ඔබ කැමති image https://telegra.ph upload කර ලින්ක් දෙන්න.",
 			"required": true,
-			"value": "https://i.ibb.co/J3FK9zw/image.png"
+			"value": "https://telegra.ph/file/93ad01498bf67b9e261e0.jpg"
 		},
 		"CUS_PANEL": {
 			"description": "එය ඔබගේ menu එක ලබා ගැනීමට ඔබට අවශ්‍ය කමාන්ඩ් එකක් ඇඩ් කරයි.ඔබ කැමති command එකක් යොදන්න. Ex:- mizuki",
