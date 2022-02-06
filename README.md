@@ -5,7 +5,7 @@
 
  
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/J3FK9zw/image.png" width="480" height="350"/>
+  <img border-radius: 15px src="https://i.ibb.co/Wys1nyR/Cyber-Queen-alive.png" width="480" height="350"/>
   <p align="center">
 <a href="#"><img title="Cyber Queen" src="https://img.shields.io/badge/CyberQueen-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
