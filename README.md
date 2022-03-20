@@ -29,13 +29,15 @@
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### For CMD BOT
   
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen) 
   
+### For Button BOT
 
+#### Soon...
  
 
   <p align="center">
