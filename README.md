@@ -1,7 +1,7 @@
-# Now You Can Deploy CyberQueen WhatsApp BOT
+# Now You Can Deploy CyberQueen WhatsApp BOT Public
  
 
-## Hi there I am ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ v3.8.4
+## Hi there I am ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ v3.9.9
 
  
 <div align="center">
@@ -33,11 +33,13 @@
   
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-CMD-BOT) 
   
-### For Button BOT
+### For BTN BOT
 
-#### Soon...
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-BTN-BOT)
  
 
   <p align="center">
