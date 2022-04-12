@@ -33,7 +33,9 @@
   
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-CMD-BOT) 
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-CMD-BOT)
+ 
+ [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/eWp9wx)
   
 ### For BTN BOT
 
