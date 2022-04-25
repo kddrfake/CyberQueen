@@ -41,7 +41,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-BTN-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kddrfake/CyberQueen-BTN-BOT)
  
 
   <p align="center">
